@@ -1,7 +1,7 @@
 <template>
   <main :class="wrapper().className">
     <div :class="card().className">
-      <img src="image-qr-code.png" alt="QR Code" draggable="false" />
+      <img src="/image-qr-code.png" alt="QR Code" draggable="false" />
       <div>
         <h1>Improve your front-end skills by building projects</h1>
         <p>
