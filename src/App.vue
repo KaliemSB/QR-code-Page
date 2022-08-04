@@ -38,7 +38,7 @@ const card = css({
     padding: "1rem 1rem 0 1rem",
     userSelect: "none",
     h1: {
-      fontSize: "1.6rem",
+      fontSize: "1.5rem",
       color: "$darkBlue",
     },
     p: {
